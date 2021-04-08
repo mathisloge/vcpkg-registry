@@ -1,0 +1,16 @@
+{
+    "default": {
+        "lua51": {
+            "baseline": "5.1.3",
+            "port-version": 0
+        },
+        "lua52": {
+            "baseline": "5.2.4",
+            "port-version": 0
+        },
+        "lua53": {
+            "baseline": "5.3.6",
+            "port-version": 0
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lua53",
+  "version-string": "5.3.6",
+  "description": "a powerful, fast, lightweight, embeddable scripting language",
+  "homepage": "https://www.lua.org",
+  "features": {
+    "cpp": {
+      "description": "Builds lua for C++ linkage."
+    }
+  }
+}
