@@ -8,8 +8,8 @@ Currently included packages:
 
 
 # usage
-add the following to your vcpkg-configuration.json
-```json
+add the following to your `vcpkg-configuration.json`
+```
 {
     "registries": [
         {
