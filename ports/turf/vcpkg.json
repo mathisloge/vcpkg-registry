@@ -1,0 +1,7 @@
+{
+  "name": "turf",
+  "version-date": "2017-01-13",
+  "description": "Configurable C++ platform adapter",
+  "homepage": "https://github.com/preshing/turf",
+  "supports": "!uwp & !arm"
+}
