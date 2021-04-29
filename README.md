@@ -8,7 +8,7 @@ Currently included packages:
 
 
 # usage
-add the following to your `vcpkg-configuration.json`
+add the following to your `vcpkg-configuration.json`. For a more detailed explanation see https://github.com/microsoft/vcpkg/blob/master/docs/specifications/registries-2.md#consuming-registries
 ```
 {
     "registries": [
