@@ -1,5 +1,9 @@
 {
     "default": {
+        "cpp-json-schema": {
+            "baseline": "2021-09-17",
+            "port-version": 0
+        },
         "junction": {
             "baseline": "2018-02-18",
             "port-version": 0
