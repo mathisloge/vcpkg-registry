@@ -1,6 +1,7 @@
 {
   "name": "cpp-json-schema",
   "version-date": "2021-09-17",
+  "port-version": 1,
   "description": "Generates json schema files.",
   "homepage": "https://github.com/mathisloge/cpp-json-schema",
   "dependencies": [
