@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO mathisloge/mylogger
-    REF 5f035c0fb9eba32de192785f58a3a473806f48aa
-    SHA512 fd1bdb512a87b85b2ec9fb6b2103c20042aa399b8f1303a2f35e6c8592e4973e1ac182bd5b78d341a1e8ebb9ecf92e632ad5e03fa21426497763f023dec99da8
+    REF 5cdcd6130ffd87761c20c1eb16778774123c78bb
+    SHA512 e71c2a82b7740e338c6660cae0ae136bd24ed6b1ec2a7b1bbc8ea68e2db625afcd01850ba04cacaa36d53f21f172b1bb813ca6c4c7f991a50ce48845a35a1f63
 )
 
 vcpkg_cmake_configure(
