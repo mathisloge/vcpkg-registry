@@ -1,6 +1,7 @@
 {
   "name": "mylogger",
   "version": "1.0.0",
+  "port-version": 1,
   "description": "small wrapper around spdlog",
   "homepage": "https://github.com/mathisloge/mylogger",
   "dependencies": [
