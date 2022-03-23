@@ -1,0 +1,17 @@
+{
+  "name": "mylogger",
+  "version": "1.0.0",
+  "description": "small wrapper around spdlog",
+  "homepage": "https://github.com/mathisloge/mylogger",
+  "dependencies": [
+    "spdlog",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

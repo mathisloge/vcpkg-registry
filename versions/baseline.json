@@ -20,6 +20,10 @@
             "baseline": "5.3.6",
             "port-version": 0
         },
+        "mylogger": {
+            "baseline": "1.0.0",
+            "port-version": 0
+        },
         "turf": {
             "baseline": "2017-01-13",
             "port-version": 0
